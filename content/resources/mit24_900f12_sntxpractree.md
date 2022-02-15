@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains information regarding intro to linguistics: syntax
   quiz practice trees.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-900-introduction-to-linguistics-fall-2012/0c07511197c7b7d6d42d343ae1d4c0bc_MIT24_900F12_SntxPracTree.pdf
+file: /media/courses/24-900-introduction-to-linguistics-fall-2012/0c07511197c7b7d6d42d343ae1d4c0bc_MIT24_900F12_SntxPracTree.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: '24.900 Intro to Linguistics: Syntax Quiz Practice Trees'
 uid: 0c075111-97c7-b7d6-d42d-343ae1d4c0bc
