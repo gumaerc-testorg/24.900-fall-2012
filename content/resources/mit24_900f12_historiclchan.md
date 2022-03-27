@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
+parent_uid: 9ec6c0e2-deb7-81df-7b61-d128390fb2e3
 resourcetype: Document
 title: '24.900 Intro to Linguistics Lecture Notes: Historical Change'
 uid: 28157fa6-5cea-5360-3914-15fc563f4531

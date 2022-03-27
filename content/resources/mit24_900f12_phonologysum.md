@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
+parent_uid: 9ec6c0e2-deb7-81df-7b61-d128390fb2e3
 resourcetype: Document
 title: '24.900 Intro to Linguistics Lecture Notes: Phonology Summary'
 uid: f305bb4c-ff88-d864-3ef7-7a3c2ab6b92a

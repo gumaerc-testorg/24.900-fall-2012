@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 99c19397-421c-6e36-0004-dab3c5a045b0
 resourcetype: Document
 title: '24.900 Intro to Linguistics: Writing Assignment 4'
 uid: 36ec0681-387a-bd41-9d58-9841d3e2ed29

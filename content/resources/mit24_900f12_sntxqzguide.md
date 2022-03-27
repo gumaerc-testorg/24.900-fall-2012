@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: f21dcf50-a34e-8ff1-4abe-2588025621ec
 resourcetype: Document
 title: '24.900 Intro to Linguistics: Syntax Quiz Study Guide'
 uid: 6a338ecc-764b-5c30-0983-b375a3b6030a

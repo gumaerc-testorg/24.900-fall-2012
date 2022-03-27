@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
+parent_uid: 9ec6c0e2-deb7-81df-7b61-d128390fb2e3
 resourcetype: Document
 title: '24.900 Intro to Linguistics Lecture Slides: Dialects'
 uid: 1038e841-8c6a-deaa-cf57-04cc1cbcd976

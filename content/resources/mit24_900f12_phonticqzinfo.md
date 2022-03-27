@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: f21dcf50-a34e-8ff1-4abe-2588025621ec
 resourcetype: Document
 title: '24.900 Intro to Linguistics: Phonetics Quiz Info'
 uid: 78494848-385c-e71a-cd19-f0e3f5de1030
