@@ -1,45 +1,18 @@
 ---
 content_type: page
-learning_resource_types: []
-ocw_type: CourseSection
+description: This section provides readings, audio, and video material that supplements
+  the course topics.
+draft: false
 title: Readings and Other Materials
 uid: 24a48926-88f3-790c-77f0-7178186add1f
 ---
-
 \[O'Grady\] = O'Grady, William, John Archibald, et al. _Contemporary Linguistics: An Introduction_. 6th ed. Bedford / St. Martin's, 2009. ISBN: 9780312618513.
 
 \[Baker\] = Baker, Mark. _The Atoms of Language: The Mind's Hidden Rules of Grammar_. Basic Books, 2001. ISBN: 9780465005222.
 
 In addition to the readings from the course's two textbooks, there were also additional readings and audio / video material that supplemented the course topics. All of these are featured in the table below.
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
-SES #
-{{< thclose >}}
-{{< thopen >}}
-TOPICS
-{{< thclose >}}
-{{< thopen >}}
-READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**Introduction**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-1
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}SES #{{< thclose >}}{{< thopen >}}TOPICS{{< thclose >}}{{< thopen >}}READINGS{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="3" >}}**Introduction**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}1{{< tdclose >}}{{< tdopen >}}
 
 What's it all about?
 
@@ -47,26 +20,7 @@ Branches of linguistics.
 
 Language acquisition: what's innate, what's learned?
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-\[O'Grady\] Chapter 1, pp. 1–113.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**Morphology  
-**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-2–4
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}\[O'Grady\] Chapter 1, pp. 1–113.{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**Morphology**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}2–4{{< tdclose >}}{{< tdopen >}}
 
 The notion "lexicon"
 
@@ -88,10 +42,7 @@ Subcategorization
 
 Derivational vs. inflectional morphology
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[O'Grady\] Chapter 4, pp. 115–46.
 
@@ -99,22 +50,7 @@ Saffran, Jenny R., Richard N. Aslin, et al. "[Statistical Learning by 8-Month-Ol
 
 A [sample stimulus (AIFC)](https://whyfiles.org/058language/images/baby_stream.aiff.aifc) from the experiment described in the article above.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**Phonetics (Sounds of Speech: Production and Perception)**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-5–7
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**Phonetics (Sounds of Speech: Production and Perception)**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}5–7{{< tdclose >}}{{< tdopen >}}
 
 International Phonetic Alphabet (IPA)
 
@@ -132,9 +68,8 @@ The McGurk effect
 
 Finish phonetics, start phonology
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
 \[O'Grady\] Chapter 2, pp. 15–55.
 
 Eimas, Peter D., Einar R. Siqueland, et al. "[Speech Perception in Infants](http://dx.doi.org/10.1126/science.171.3968.303)." _Science_ 171, no. 3968 (1971): 303–6.
@@ -145,22 +80,7 @@ hmcnally. "The McGurk effect." July 3, 2006. YouTube. Accessed February 14, 2013
 
 "[The McGurk Effect](http://auditoryneuroscience.com/?q=McGurkEffect)," demonstrated by Prof. Patricia Kuhl.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**Phonology (Sounds of Speech: Their Grammar)**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-8–12
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**Phonology (Sounds of Speech: Their Grammar)**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}8–12{{< tdclose >}}{{< tdopen >}}
 
 Phonology vs. phonetics
 
@@ -178,25 +98,7 @@ Rule ordering
 
 Syllable structure
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-\[O'Grady\] Chapter 3, pp. 59–106.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**Writing Systems**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-13
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}\[O'Grady\] Chapter 3, pp. 59–106.{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**Writing Systems**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}13{{< tdclose >}}{{< tdopen >}}
 
 Writing systems as a technology for representing speech
 
@@ -206,25 +108,7 @@ Origins of the Roman alphabet
 
 Phonemic vs. phonetic alphabetic writing systems
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-\[O'Grady\] Chapter 16, pp. 545–67.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**Syntax (Sentence Structure)**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-14–18
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}\[O'Grady\] Chapter 16, pp. 545–67.{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**Syntax (Sentence Structure)**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}14–18{{< tdclose >}}{{< tdopen >}}
 
 Syntactic categories (noun, verb, etc.)
 
@@ -260,40 +144,19 @@ Movement and word-order variation
 
 A language universal: the Final-over-Final Constraint (FOFC)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[O'Grady\] Chapter 5, pp. 155–98.
 
 All chapters in \[Baker\].
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**Acquisition of Syntax**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-19
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**Acquisition of Syntax**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}19{{< tdclose >}}{{< tdopen >}}
 
 Stages of acquisition
 
 Learning vs. innateness vs. maturation
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[O'Grady\] Chapter 11, pp. 351–85.
 
@@ -305,23 +168,7 @@ Learning vs. innateness vs. maturation
 
 ["Building the Morphological Puzzle: a Claim for Continuity." (MOV - 15.7MB)](http://www.maccs.mq.edu.au/facilities/acquisition/movies/Buildingpuzzles.mov) Cognitive Neuroscience of Language Laboratory, Department of Linguistics, University of Maryland.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**Semantics (Grammar of Meaning) / Semantics and Pragmatics  
-**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-20–21
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**Semantics (Grammar of Meaning) / Semantics and Pragmatics**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}20–21{{< tdclose >}}{{< tdopen >}}
 
 Pronouns and binding
 
@@ -329,27 +176,9 @@ Quantifier scope
 
 Negative polarity items
 
+{{< tdclose >}}{{< tdopen >}}\[O'Grady\] Chapter 6, pp. 203–40, but focus on 221–32.{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**Controversies, Myths and Crazy Rumors about Language**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}22{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
-\[O'Grady\] Chapter 6, pp. 203–40, but focus on 221–32.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**Controversies, Myths and Crazy Rumors about Language**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-22
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-_Selected from such issues as..._
+_Selected from such issues as…_
 
 Does the language of the Pirahã disprove theories about language?
 
@@ -359,14 +188,11 @@ What does teaching children to read have to do with right-wing vs. left-wing pol
 
 How many words for snow does Eskimo have? Should we care?
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Colapinto, John. "[The Interpreter](http://www.newyorker.com/reporting/2007/04/16/070416fa_fact_colapinto)." _The New Yorker_, April 2007, 118–37.
 
-Everett, Daniel L. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Cultural Constraints on Grammar and Cognition in Pirahã: Another Look at the Design Features of Human Language." (PDF)](http://www1.icsi.berkeley.edu/~kay/Everett.CA.Piraha.pdf) _Current Anthropology_ 46, no. 4 (2005): 621–46.
+Everett, Daniel L. "[Cultural Constraints on Grammar and Cognition in Pirahã: Another Look at the Design Features of Human Language." (PDF)](http://www1.icsi.berkeley.edu/~kay/Everett.CA.Piraha.pdf) _Current Anthropology_ 46, no. 4 (2005): 621–46.
 
 _A reply to the Everett article:_
 
@@ -378,22 +204,7 @@ Stalin, Joseph V. _Marxism and Problems of Linguistics_. Wildside Press, 2008. I
 
 Pullum, Geoffrey K. Chapter 19 in _The Great Eskimo Vocabulary Hoax and Other Irreverent Essays on the Study of Language_. University of Chicago Press, 1991. ISBN: 9780226685342. \[Preview with [Google Books](http://books.google.com/books?id=Tahaz-0F6zMC&pg=PA159#v=onepage)\]
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**Historical Change**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-23–24
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**Historical Change**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}23–24{{< tdclose >}}{{< tdopen >}}
 
 Synchronic vs. diachronic linguistics
 
@@ -409,29 +220,13 @@ Linguistics and the Romantic movement
 
 History of English
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
 \[O'Grady\] Chapter 7, pp. 245–91.
 
 Rosenfelder, Mark. "[How Likely Are Chance Resemblances Between Languages?](http://www.zompist.com/chance.htm)" zomptist.com, 2002.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**Dialects: Facts and Controversies**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-25–26
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}**Dialects: Facts and Controversies**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}25–26{{< tdclose >}}{{< tdopen >}}
 
 What is a dialect?
 
@@ -441,10 +236,7 @@ Dialects of North American English
 
 The "Ebonics" controversy
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[O'Grady\] Chapter 14, pp. 485–526.
 
@@ -462,9 +254,4 @@ Julie Corbett. "Shark Attacked Newfoundland NTV News." January 24, 2011. YouTube
 
 [Interview with John McCarthy](http://www.publicbroadcasting.net/wfcr/news/news.newsmain?action=article&ARTICLE_ID=712230), New England Public Radio, 2004.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
