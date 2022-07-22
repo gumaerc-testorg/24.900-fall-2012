@@ -6,6 +6,7 @@ file: /courses/24-900-introduction-to-linguistics-fall-2012/0c07511197c7b7d6d42d
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '24.900 Intro to Linguistics: Syntax Quiz Practice Trees'
 uid: 0c075111-97c7-b7d6-d42d-343ae1d4c0bc
 ---
 This resource contains information regarding intro to linguistics: syntax quiz practice trees.
-

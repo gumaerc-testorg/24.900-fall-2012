@@ -5,6 +5,7 @@ file: /courses/24-900-introduction-to-linguistics-fall-2012/f526196bf53072b09365
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '24.900 Intro to Linguistics Lecture Slides: Writing Systems'
 uid: f526196b-f530-72b0-9365-1556de1fd93e
 ---
 This resource contains information regarding writing systems.
-

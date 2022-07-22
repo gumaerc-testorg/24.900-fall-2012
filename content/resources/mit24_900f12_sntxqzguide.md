@@ -6,6 +6,7 @@ file: /courses/24-900-introduction-to-linguistics-fall-2012/6a338ecc764b5c300983
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '24.900 Intro to Linguistics: Syntax Quiz Study Guide'
 uid: 6a338ecc-764b-5c30-0983-b375a3b6030a
 ---
 This resource contains information regarding intro to linguistics: syntax quiz study guide.
-

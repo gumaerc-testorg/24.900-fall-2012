@@ -6,6 +6,7 @@ file: /courses/24-900-introduction-to-linguistics-fall-2012/763f545266e2fd8dd3d4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '24.900 Intro to Linguistics Lecture Notes: Historical Linguistics Summar
 uid: 763f5452-66e2-fd8d-d3d4-24c368785ba8
 ---
 This resource contains information regarding intro to linguistics lecture notes: historical linguistics summary.
-

@@ -6,6 +6,7 @@ file: /courses/24-900-introduction-to-linguistics-fall-2012/32672c0c9668c2aded8d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '24.900 Intro to Linguistics: Acoustic Phonetics (Speech Perception) Summ
 uid: 32672c0c-9668-c2ad-ed8d-efe2bf1a373a
 ---
 This resource contains information regarding intro to linguistics lecture notes:  acoustic phonetics (speech perception) summary.
-

@@ -5,6 +5,7 @@ file: /courses/24-900-introduction-to-linguistics-fall-2012/1038e8418c6adeaacf57
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '24.900 Intro to Linguistics Lecture Slides: Dialects'
 uid: 1038e841-8c6a-deaa-cf57-04cc1cbcd976
 ---
 This file contains information regarding dialects.
-

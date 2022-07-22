@@ -6,6 +6,7 @@ file: /courses/24-900-introduction-to-linguistics-fall-2012/28157fa65cea53603914
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '24.900 Intro to Linguistics Lecture Notes: Historical Change'
 uid: 28157fa6-5cea-5360-3914-15fc563f4531
 ---
 This resource contains information regarding intro to linguistics lecture notes: historical change.
-
