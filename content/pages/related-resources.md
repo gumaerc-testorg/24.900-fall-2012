@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides links to related resources on linguistics, morphology,
+  phonetics, phonology, historical change, and dialects.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: e52cffb2-aa85-1e50-86fe-b7700e64701b
 ---
