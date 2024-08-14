@@ -32,7 +32,7 @@ Morphology
 Phonetics (sounds of speech: production and perception)
 {{< tdclose >}}{{< tdopen >}}
 
-[The International Phonetic Alphabet (IPA)](http://web.uvic.ca/ling/resources/ipa/charts/IPAlab/IPAlab.htm)
+[The International Phonetic Alphabet (IPA)](https://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/#ipachartstart)
 
 [The International Phonetic Association](https://www.internationalphoneticassociation.org/)
 
@@ -40,7 +40,7 @@ hmcnally. "The McGurk effect." July 3, 2006. YouTube. Accessed February 14, 2013
 
 "[The McGurk Effect](http://auditoryneuroscience.com/?q=McGurkEffect)," demonstrated by Professor Patricia Kuhl.
 
-[Sammy, the Interactive Sagittal Section](http://homes.chass.utoronto.ca/~danhall/phonetics/sammy.html)
+[Sammy, the Interactive Sagittal Section](https://incl.pl/sammy/)
 
 [Vocal Vowels](http://www.exploratorium.edu/exhibits/vocal_vowels/vocal_vowels.html): hollow plastic models of the human vocal tract turn the squawk of a duck call into vowel sounds
 
