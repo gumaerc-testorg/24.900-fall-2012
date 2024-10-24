@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding intro to linguistics: phonetics
   quiz info.'
-file: /courses/24-900-introduction-to-linguistics-fall-2012/78494848385ce71acd19f0e3f5de1030_MIT24_900F12_PhonticQzInfo.pdf
+file: /ol-ocw-studio-app/courses/24-900-introduction-to-linguistics-fall-2012/78494848385ce71acd19f0e3f5de1030_MIT24_900F12_PhonticQzInfo.pdf
 file_size: 154247
 file_type: application/pdf
 learning_resource_types:
