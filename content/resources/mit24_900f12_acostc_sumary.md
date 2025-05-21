@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding intro to linguistics lecture
   notes:  acoustic phonetics (speech perception) summary.'
-file: /ol-ocw-studio-app/courses/24-900-introduction-to-linguistics-fall-2012/32672c0c9668c2aded8defe2bf1a373a_MIT24_900F12_Acostc_sumary.pdf
+file: /courses/24-900-introduction-to-linguistics-fall-2012/32672c0c9668c2aded8defe2bf1a373a_MIT24_900F12_Acostc_sumary.pdf
 file_size: 515664
 file_type: application/pdf
 learning_resource_types:
