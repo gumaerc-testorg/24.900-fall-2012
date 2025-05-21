@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding intro to linguistics lecture
   notes: syntax summary.'
-file: /ol-ocw-studio-app/courses/24-900-introduction-to-linguistics-fall-2012/808d2e16f8f26848bb13067ccfc9814c_MIT24_900F12_Syntaxsummary.pdf
+file: /courses/24-900-introduction-to-linguistics-fall-2012/808d2e16f8f26848bb13067ccfc9814c_MIT24_900F12_Syntaxsummary.pdf
 file_size: 713933
 file_type: application/pdf
 learning_resource_types:
