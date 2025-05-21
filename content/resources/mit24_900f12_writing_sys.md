@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding writing systems.
-file: /ol-ocw-studio-app/courses/24-900-introduction-to-linguistics-fall-2012/f526196bf53072b093651556de1fd93e_MIT24_900F12_Writing_Sys.pdf
+file: /courses/24-900-introduction-to-linguistics-fall-2012/f526196bf53072b093651556de1fd93e_MIT24_900F12_Writing_Sys.pdf
 file_size: 2069436
 file_type: application/pdf
 learning_resource_types:
